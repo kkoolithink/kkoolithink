@@ -13,7 +13,6 @@
 
 - ⚡ Fun fact **: I made this Github account for my Capstone project for school**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
