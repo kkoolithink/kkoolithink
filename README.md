@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kkoolithink" alt="kkoolithink" /></a> </p>
 
-- 🔭 I’m currently working on **a Roblox game**
+- 🔭 I’m currently working on **my personal Python project**
 
 - 🌱 I’m currently learning **Java**
 
