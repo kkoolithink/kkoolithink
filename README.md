@@ -7,11 +7,9 @@
 
 - 🔭 I’m currently working on **a Roblox game**
 
-- 🌱 I’m currently learning **x84 assembly**
+- 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **life**
-
-- ⚡ Fun fact **: I made this Github account for my Capstone project for school**
+- ⚡ Fun fact **: I mostly make Roblox exploiting scripts**
 
 <p align="left">
 </p>
