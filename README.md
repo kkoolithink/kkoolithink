@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- ⚡ Fun fact **: I mostly make Roblox exploiting scripts**
+- ⚡ Fun fact **: I like cats**
 
 <p align="left">
 </p>
